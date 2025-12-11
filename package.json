@@ -11,13 +11,16 @@
     "dependencies": {
         "@hookform/resolvers": "^5.2.2",
         "@ignite-ui/react": "^2.2.4",
+        "@prisma/client": "^4.7.1",
         "@types/node": "25.0.0",
         "@types/react": "19.2.7",
         "@types/react-dom": "19.2.3",
+        "axios": "^1.13.2",
         "eslint": "9.39.1",
         "eslint-config-next": "16.0.8",
         "next": "16.0.8",
         "next-seo": "^5.15.0",
+        "nookies": "^2.5.2",
         "phosphor-react": "^1.4.1",
         "react": "19.2.1",
         "react-dom": "19.2.1",
@@ -26,6 +29,8 @@
         "zod": "^4.1.13"
     },
     "devDependencies": {
-        "@rocketseat/eslint-config": "^2.2.2"
+        "@rocketseat/eslint-config": "^2.2.2",
+        "@types/cookie": "^0.6.0",
+        "prisma": "^4.7.1"
     }
 }

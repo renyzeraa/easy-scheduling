@@ -35,7 +35,7 @@ export function ClaimUsernameForm() {
                     size="sm"
                     prefix="easyscheduling.com/"
                     placeholder="seu-usuario"
-                    {...register('username')}
+                    {...(register('username'))}
                 />
                 <Button type="submit" disabled={isSubmitting}>Reservar<ArrowRight /></Button>
             </Form >

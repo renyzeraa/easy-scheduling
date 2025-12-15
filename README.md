@@ -100,8 +100,21 @@ Isso abrirá o Prisma Studio em seu navegador.
 
 ## 🎨 Design
 
-O design do projeto pode ser visualizado no Figma:  
-[Figma](https://www.figma.com/design/MAcKkY0lCYpwVfsWP0bpcl/Ignite-Call--Community-?node-id=339-74&p=f&t=yUftVXF8v81kMFGd-0)
+O design do projeto pode ser visualizado no Figma: [Figma](https://www.figma.com/design/MAcKkY0lCYpwVfsWP0bpcl/Ignite-Call--Community-?node-id=339-74&p=f&t=yUftVXF8v81kMFGd-0)
+
+<img width="540" height="333" alt="Image" src="https://github.com/user-attachments/assets/d8397931-bc12-4508-850c-65d91f6f3bd0" />
+
+<img width="509" height="304" alt="Image" src="https://github.com/user-attachments/assets/0fbcde24-b712-4921-adaa-feef35d50034" />
+
+<img width="840" height="546" alt="Image" src="https://github.com/user-attachments/assets/9a44e1ea-da7e-432c-9c38-84ce346b7ef4" />
+
+<img width="840" height="546" alt="Image" src="https://github.com/user-attachments/assets/670bc20c-be08-4bc5-a8c8-86ae2089b9b1" />
+
+<img width="466" height="307" alt="Image" src="https://github.com/user-attachments/assets/cdfa29e9-7556-4fd3-b560-758d73021e82" />
+
+<img width="446" height="294" alt="Image" src="https://github.com/user-attachments/assets/c5ba2de9-179b-41d4-b1e4-154d1e3522b6" />
+
+<img width="434" height="324" alt="Image" src="https://github.com/user-attachments/assets/e80f1624-2d8b-4d42-809a-e208b23e7336" />
 
 ## 📄 Licença
 
